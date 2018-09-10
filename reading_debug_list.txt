@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportImportMemento.1>
+<VarMeta IMemento.internal.id="Vac"/>
+<VarMeta IMemento.internal.id="Vdc"/>
+<VarMeta IMemento.internal.id="Iac"/>
+<VarMeta IMemento.internal.id="IacADC"/>
+<VarMeta IMemento.internal.id="VacADC"/>
+<VarMeta IMemento.internal.id="VdcADC"/>
+</ExportImportMemento.1>
